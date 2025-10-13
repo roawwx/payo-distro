@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "PayoLand",
+      "version" : "2025-10-13-12-40-13",
+      "location" : "payoland.json",
+      "priority" : 0
+    }
+  ]
+}
