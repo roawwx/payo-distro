@@ -1,0 +1,3 @@
+ip-required=true # If IP is required when adding a player to the invalid player bypass list. | default: true
+enforce-bypasslist=true # Enforce the invalid player bypass list. | default: true
+
