@@ -1,0 +1,12 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.minecraft.class_5375": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  }
+}
